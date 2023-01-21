@@ -2,12 +2,12 @@
 module.exports = {
   content: [
     './src/**/*.tsx',
-    './src/**/*.html',
+    './index.html',
   ],
   theme: {
     extend: {
       colors:{
-        background: '#09090A'
+        batata: '#09090a'
       }
     },
   },
